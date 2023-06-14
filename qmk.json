@@ -1,4 +1,6 @@
 {
+    "type": "device",
     "qmk_version": "../mnt_reform_qmk_firmware",
-    "module_name": "olkb"
+    "module_name": "olkb",
+    "module_version": "1.0.0"
 }
