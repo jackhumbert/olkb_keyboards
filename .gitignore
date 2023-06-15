@@ -1,1 +1,8 @@
 .build
+
+# firmware binaries
+*.bin
+*.eep
+*.hex
+*.qmk
+*.uf2
